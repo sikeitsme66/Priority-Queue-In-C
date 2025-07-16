@@ -138,4 +138,4 @@ void display_pq()
 		printf("%d\n",prior_q[i]);
 	}
 }			
-	
+	 
