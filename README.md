@@ -1,16 +1,16 @@
-<h1>🧮 Priority Queue in C</h1>
+<h1> Priority Queue in C</h1>
 
 <p>
 This project is a simple implementation of a Priority Queue in C. It demonstrates insertion, deletion, and display operations in a fixed-size priority queue using arrays.
 </p>
 
-<h2>📘 What is a Priority Queue?</h2>
+<h2>What is a Priority Queue?</h2>
 
 <p>
 A <strong>priority queue</strong> is a special type of queue in which each element is associated with a priority. Elements are served based on their priority — higher priority elements are dequeued before lower priority ones. If two elements have the same priority, they are served according to their order in the queue (FIFO).
 </p>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 
 <ul>
   <li>Insert elements into the priority queue</li>
@@ -20,7 +20,7 @@ A <strong>priority queue</strong> is a special type of queue in which each eleme
   <li>Handles queue overflow and underflow conditions</li>
 </ul>
 
-<h2>🛠️ How to Compile and Run</h2>
+<h2>How to Compile and Run</h2>
 
 <h3>1. Compile the code</h3>
 
